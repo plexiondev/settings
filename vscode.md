@@ -15,7 +15,7 @@
 
 ### config
 
-```
+```json
 {
     "workbench.colorTheme": "Catppuccin",
     "editor.fontFamily": "Cascadia Mono PL, Roboto Mono, Consolas, 'Courier New', monospace",

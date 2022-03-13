@@ -16,7 +16,21 @@
 ### config
 
 ```
-
+{
+    "workbench.colorTheme": "Catppuccin",
+    "editor.fontFamily": "Cascadia Mono PL, Roboto Mono, Consolas, 'Courier New', monospace",
+    "editor.lineHeight": 1.6,
+    "editor.fontSize": 17,
+    "editor.fontWeight": "400",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "phase",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "html.autoCreateQuotes": false
+}
 ```
 
 ### formatting

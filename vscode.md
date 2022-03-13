@@ -36,7 +36,7 @@
 ### formatting
 
 - [/SPGoding.datapack-language-server](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - language server for `.mcfunction`
-- [/ecmel.vscode-html-css](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - `.css` intellisense in .`.html`
+- [/ecmel.vscode-html-css](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - `.css` intellisense in `.html`
 - [/abusaidm.html-snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - snippets for `.html`
 - [/Zignd.html-css-class-completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - ^ similar thing but autocomplete
 - [/arcensoth.language-mcfunction](https://marketplace.visualstudio.com/items?itemName=arcensoth.language-mcfunction) - syntax highlighting for `.mcfunction`
